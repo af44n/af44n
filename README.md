@@ -7,8 +7,7 @@
 <img src="https://api.iconify.design/mdi:linux.svg?color=%23FE8019&height=16" valign="middle" /> Deep love for <strong>Linux</strong>, open source software, and digital autonomy<br>
 <img src="https://api.iconify.design/mdi:palette-outline.svg?color=%23FE8019&height=16" valign="middle" /> Into Linux ricing, making my desktop as clean (or chaotic) as possible<br>
 <img src="https://api.iconify.design/mdi:source-branch.svg?color=%23FE8019&height=16" valign="middle" /> Actively contributing to and building open source projects<br>
-<img src="https://api.iconify.design/mdi:radar.svg?color=%23FE8019&height=16" valign="middle" /> Currently learning <strong>Unity / AR-VR development</strong><br>
-<img src="https://api.iconify.design/mdi:earth.svg?color=%23FE8019&height=16" valign="middle" /> Open to remote / freelance JavaScript work
+
 </p>
 
 <h3 align="left"><img src="https://api.iconify.design/mdi:toolbox-outline.svg?color=%23FE8019&height=22" valign="middle" /> Skills</h3>

@@ -1,16 +1,17 @@
-<h1 align="left">Hi, I'm Afaan </h1>
+# Hi, I'm Afaan
 
-<h3 align="left"><img src="https://api.iconify.design/mdi:cat.svg?color=%23FE8019&height=22" valign="middle" /> About Me</h3>
+### <img src="https://api.iconify.design/mdi/cat.svg?color=%23FE8019&height=22" valign="middle" /> About Me
+
 <p align="left">
-<img src="https://api.iconify.design/mdi:laptop.svg?color=%23FE8019&height=16" valign="middle" /> Loved coding since I was 15: web apps, video games, Discord bots, shell scripts, I've tried it all<br>
-<img src="https://api.iconify.design/mdi:briefcase-outline.svg?color=%23FE8019&height=16" valign="middle" /> Currently a <strong>Peer-to-Peer Analyst</strong> & <strong>JavaScript Developer</strong> @ <a href="https://playproject.io" target="_blank">playproject.io</a><br>
-<img src="https://api.iconify.design/mdi:linux.svg?color=%23FE8019&height=16" valign="middle" /> Deep love for <strong>Linux</strong>, open source software, and digital autonomy<br>
-<img src="https://api.iconify.design/mdi:palette-outline.svg?color=%23FE8019&height=16" valign="middle" /> Into Linux ricing, making my desktop as clean (or chaotic) as possible<br>
-<img src="https://api.iconify.design/mdi:source-branch.svg?color=%23FE8019&height=16" valign="middle" /> Actively contributing to and building open source projects<br>
-
+<img src="https://api.iconify.design/mdi/laptop.svg?color=%23FE8019&height=16" valign="middle" /> Loved coding since I was 15: web apps, video games, Discord bots, shell scripts, I've tried it all<br>
+<img src="https://api.iconify.design/mdi/briefcase-outline.svg?color=%23FE8019&height=16" valign="middle" /> Currently a <strong>Peer-to-Peer Analyst</strong> & <strong>JavaScript Developer</strong> @ <a href="https://playproject.io" target="_blank">playproject.io</a><br>
+<img src="https://api.iconify.design/mdi/linux.svg?color=%23FE8019&height=16" valign="middle" /> Deep love for <strong>Linux</strong>, open source software, and digital autonomy<br>
+<img src="https://api.iconify.design/mdi/palette-outline.svg?color=%23FE8019&height=16" valign="middle" /> Into Linux ricing, making my desktop as clean (or chaotic) as possible<br>
+<img src="https://api.iconify.design/mdi/source-branch.svg?color=%23FE8019&height=16" valign="middle" /> Actively contributing to and building open source projects<br>
 </p>
 
-<h3 align="left"><img src="https://api.iconify.design/mdi:toolbox-outline.svg?color=%23FE8019&height=22" valign="middle" /> Skills</h3>
+### <img src="https://api.iconify.design/mdi/toolbox-outline.svg?color=%23FE8019&height=22" valign="middle" /> Skills
+
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-FE8019?style=for-the-badge&logo=javascript&logoColor=282828" />
   <img src="https://img.shields.io/badge/TypeScript-FE8019?style=for-the-badge&logo=typescript&logoColor=282828" />
@@ -30,8 +31,8 @@
 
 <i>Also working with Bare.js and Hyperstack.</i>
 
+### <img src="https://api.iconify.design/mdi/email-outline.svg?color=%23FE8019&height=22" valign="middle" /> Connect with me
 
-<h3 align="left"><img src="https://api.iconify.design/mdi:email-outline.svg?color=%23FE8019&height=22" valign="middle" /> Connect with me</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/afaan-js" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-FE8019?style=for-the-badge&logo=linkedin&logoColor=282828" />
@@ -42,7 +43,7 @@
   </a>
 </p>
 
-<h3 align="left"><img src="https://api.iconify.design/mdi:chart-bar.svg?color=%23FE8019&height=22" valign="middle" /> GitHub Stats</h3>
+### <img src="https://api.iconify.design/mdi/chart-bar.svg?color=%23FE8019&height=22" valign="middle" /> GitHub Stats
 
 <p align="left">
   <img src="https://github-profile-trophy-unserori.vercel.app/?username=af44n&theme=gruvbox&column=9&row=1&title=-Reviews,-Followers,-PullRequest" />
@@ -53,4 +54,3 @@
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=af44n&theme=gruvbox&hide_border=true" alt="streak stats" />
 </p>
-
